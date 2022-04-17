@@ -1,0 +1,69 @@
+
+	body{
+			background-color:CornflowerBlue;
+			color: white;
+			position: center;
+		}
+		h1{
+			text-align: center ;
+			font-family:monospace;
+			font-size: 40px;
+		}
+		p{
+			text-align: center;
+			font-family:monospace;
+			font-size: 15px;
+		}
+		#survey-form{
+			background-color: darkblue;
+			padding: 20px;
+			margin:70px;
+			display: block;
+       offset-position:auto;
+      
+		}
+		#name{
+			display: block;
+			width: 800px;
+			height:25px;
+			margin: 10px;
+			border: 0px;
+			border-radius: 5px;
+     
+		}
+		#email{
+			display: block;
+			width: 800px;
+			height:25px;
+			margin: 10px;
+			border: 0px;
+			border-radius: 5px;
+		}
+		#number{
+			display: block;
+			width: 800px;
+			height:25px;
+			margin: 10px;
+			border: 0px;
+			border-radius: 5px;
+		}
+		textarea{
+			display: block;
+			width: 800px;
+			height:205px;
+			margin: 10px;
+			border: 0px;
+			border-radius: 5px;
+
+		}
+		button{
+			display: block;
+			background-color: green;
+			color: white;
+			width: 800px;
+			height:35px;
+			border-radius: 5px;
+			margin: 10px;
+
+		}
+	
